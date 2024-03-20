@@ -8,10 +8,10 @@
 - Ведется список созданных ссылок
 -------------------
 Пример админки:
-![](https://github.com/KachalkinGeorg/redirects/blob/main/Screenshot_1.jpg?raw=true)
+![](https://github.com/KachalkinGeorg/redirects/blob/main/Screenshot_1.jpeg?raw=true)
 
 Пример админки:
-![](https://github.com/KachalkinGeorg/redirects/blob/main/Screenshot_2.jpg?raw=true)
+![](https://github.com/KachalkinGeorg/redirects/blob/main/Screenshot_2.jpeg?raw=true)
 
 -------------------
 Кто желает поблагодарит автора, за данный плагин:
