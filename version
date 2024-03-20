@@ -1,0 +1,20 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+
+ID: redirects
+Name: 301 Ридирект
+Version: 0.1
+Acts: index,news,index_post;
+File: redirects.php
+Config: config.php
+Install: install.php
+Deinstall: uninstall.php
+Type: plugin
+Description: Позволяет создавать 301 редиректы для нужных адресов
+Author: KachalkinGgeorg
+Author_URI: https://gk-stalker.ru/
+Icon: <i class='fa fa-retweet fa-2x'></i>
+URI:
+Title: 301 Редирект
+Information: Позволяет создавать 301 редиректы для нужных адресов, это пригодится при изменении структуры сайта.
